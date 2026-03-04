@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Suiheisen",
+  "base_artist": "back number",
+  "createdAt": "2026-03-04T14:46:35.013362Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水平線 - Suiheisen",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_水平線_-_Suiheisen_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Suiheisen",
+      "artist": "yuzu",
+      "has_synced": false,
+      "path": "select/02_Suiheisen_yuzu.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "水平線 - Suiheisen",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/03_水平線_-_Suiheisen_back_number.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sonosen wa Suiheisen",
+      "artist": "Quruli",
+      "has_synced": false,
+      "path": "select/04_Sonosen_wa_Suiheisen_Quruli.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boushi to Mizugi to Suiheisen",
+      "artist": "Aiko",
+      "has_synced": true,
+      "path": "select/05_Boushi_to_Mizugi_to_Suiheisen_Aiko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "suiheisen ha boku no hurukizu SP Version",
+      "artist": "Uzuki Hirokawa, Ikumi Akagi, Sara Himeji and Touko Kirishima",
+      "has_synced": true,
+      "path": "select/06_suiheisen_ha_boku_no_hurukizu_SP_Version_Uzuki_Hirokawa,_Ikumi_Akagi,_Sara_Himeji_and_Touko_Kirishima.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "suiheisen ha boku no hurukizu",
+      "artist": "Uzuki Hirokawa, Ikumi Akagi, Sara Himeji, Nene Iwamizawa",
+      "has_synced": true,
+      "path": "select/07_suiheisen_ha_boku_no_hurukizu_Uzuki_Hirokawa,_Ikumi_Akagi,_Sara_Himeji,_Nene_Iwamizawa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水平線",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_水平線_back_number.txt"
+    }
+  ]
+}
